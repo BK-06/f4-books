@@ -1,0 +1,11 @@
+body {
+  box-sizing: border-box;
+  padding: 5%;
+  margin: 5%;
+  background-color: black;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+}
