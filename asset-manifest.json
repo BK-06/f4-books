@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4-books/static/css/main.bed4ef8b.css",
+    "main.js": "/f4-books/static/js/main.68424faa.js",
+    "index.html": "/f4-books/index.html",
+    "main.bed4ef8b.css.map": "/f4-books/static/css/main.bed4ef8b.css.map",
+    "main.68424faa.js.map": "/f4-books/static/js/main.68424faa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed4ef8b.css",
+    "static/js/main.68424faa.js"
+  ]
+}
